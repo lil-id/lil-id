@@ -205,3 +205,14 @@ footer {
   padding-top: 30px;
   padding-bottom: 20px;
 }
+
+#darkmode {
+  background: rgb(20, 20, 20);
+  color: white;
+}
+#darkmode .icons {
+  background: rgb(20, 20, 20);
+}
+#darkmode .icon {
+  background: rgb(255, 255, 255);
+}
