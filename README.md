@@ -2,8 +2,7 @@
 
 ### I am lil, machine learning and web development enthusiast.
 
-- 🔭 Learn backend projects using flask python
-- 🌱 Learning design patterns in depth
+- 🌱 Learning backend projects using flask python and design patterns in depth
 <br>
 
 ## Connect with me
