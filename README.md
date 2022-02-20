@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-### I am lil. Cyber security, web development, and cloud enthusiast.
+### I am lil, Computer Science Student.
 
-- 🌱 Learning backend projects using flask python and design patterns in depth
-<br>
+I am a student who likes learning and want to make something that can be useful for many people.
+
+Thank you for visiting my repository.
 
 ## Connect with me
 
@@ -19,7 +20,7 @@
 
 <img align="left" alt="flask" src="https://img.shields.io/badge/flask%20-%23316192.svg?&style=for-the-badge&logo=flask&logoColor=white" />
 
-<img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL%20-1E7CEC?logo=mysql&logoColor=white&style=for-the-badge" />
+<img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL%20-2596be?logo=mysql&logoColor=white&style=for-the-badge" />
 
 <img align="left" alt="html" src="https://img.shields.io/badge/HTML%20-EC9E1E.svg?&style=for-the-badge&logo=HTML5&logoColor=white" />
 
