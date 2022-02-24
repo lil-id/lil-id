@@ -4,13 +4,11 @@
 
 I like learning and want to make something that can be useful for many people.
 
-Thank you for visiting my repository.
+<b>Thank you</b> for visiting my repository.
 
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kholil-haq-ah-524797165)
-
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://mynotes1100.medium.com/)
 
 <br>
 <br>
@@ -30,3 +28,7 @@ Thank you for visiting my repository.
 
 <br>
 <br>
+
+## Blog
+
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://mynotes1100.medium.com/)
