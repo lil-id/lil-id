@@ -2,7 +2,7 @@
 
 ### I am lil, Computer Science Student.
 
-I am likes learning and want to make something that can be useful for many people.
+I like learning and want to make something that can be useful for many people.
 
 Thank you for visiting my repository.
 
