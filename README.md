@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am lil, Computer Science Student.
+### I am lil, computer and informatics engineering student.
 
 I like learning and want to make something that can be useful for many people.
 
