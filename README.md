@@ -32,3 +32,6 @@ I like learning and want to make something that can be useful for many people.
 ## Blog
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://mynotes1100.medium.com/)
+
+## Hacktober Fest
+[![@holil's Holopin board](https://holopin.me/holil)](https://holopin.io/@holil)
