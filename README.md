@@ -1,12 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
-### I am lil, computer and informatics engineering student.
+### About Me
+3rd year IT student who is active in the campus community and outside the campus and who likes learning and challenges. Ever made an application for the election of the OSIS chairman and web-based goods lending as well as several other applications. Have an interest in web development and cloud computing as evidenced by several certificates and certifications. I am always open to further opportunities, collaborations, and offers.
 
-I like learning and want to make something that can be useful for many people.
+Thank You.
 
-<b>Thank you</b> for visiting my repository.
-
-## Connect with me
+## Connect with Me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kholil-haq-alim-hakim/)
 
