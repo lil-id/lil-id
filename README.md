@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 ### About Me
-![](images/google.jpg)
-<br><br>
 3rd year IT student who is active in the campus community and outside the campus and who likes learning and challenges. Ever made an application for the election of the OSIS chairman and web-based goods lending as well as several other applications. Have an interest in web development and cloud computing as evidenced by several certificates and certifications. I am always open to further opportunities, collaborations, and offers.
 
 Thank You.
