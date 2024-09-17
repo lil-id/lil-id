@@ -16,7 +16,7 @@ I'm eager to leverage my diverse skillset to propel this venture forward. Connec
 
 ## Blog
 
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://mynotes1100.medium.com/)
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://engineerstories.medium.com/)
 
 <br>
 <br>
